@@ -33,6 +33,15 @@ spago test
 spago repl
 ```
 
+## VSCode
+
+J'ai installé:
+
+- PureScript IDE
+- vscode-purty (to make it work, install `purty` via npm): to be called with `Alt-Shift-F` in CodeSpace.
+- Dhall Language Support
+- vscode-input-assist (not sure it does anything)
+
 ## Resources
 
 - [PureScript by Example](https://book.purescript.org/) the free online (and up-to-date) Book
